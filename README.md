@@ -10,5 +10,6 @@ These are additional comments on my text file
 
 ##headings
 
-*trying to italicize
+*trying to italicize*
+
 these should show up as new comments in rstudio
